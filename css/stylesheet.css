@@ -62,15 +62,21 @@ h3 {
 }
 
 .brand {
-  text-decoration: none;
   font-family: var(--header-font);
   color: var(--text-color);
+  text-decoration: none;
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  font-size: 1.5rem;
 }
 
 .logo {
   font-size: 2.5rem;
+  line-height: 1;
+}
+
+.brand-name {
+  font-family: var(--header-font);
+  color: var(--text-color);
+  font-size: 2rem;
 }
