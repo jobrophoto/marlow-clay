@@ -6,7 +6,7 @@ This is my solution to the Codecademy challenge project **Company Home Page with
 
 <!-- Add a screenshot of the finished page here, e.g. ![Marlow Clay homepage](screenshot.png) -->
 
-[**Live site:**] (https://jobrophoto.github.io/marlow-clay/)
+[**Live site:**](https://jobrophoto.github.io/marlow-clay/)
 
 ## Features
 
@@ -91,6 +91,6 @@ An internet connection is needed to load the Google Fonts.
 
 ## Credits
 
-- Photos: [Unsplash photo] (https://unsplash.com/)
+- Photos: [Unsplash photo](https://unsplash.com/)
 - Fonts: Google Fonts
 - Project prompt: [Codecademy](https://www.codecademy.com)
