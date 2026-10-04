@@ -6,7 +6,7 @@ This is my solution to the Codecademy challenge project **Company Home Page with
 
 <!-- Add a screenshot of the finished page here, e.g. ![Marlow Clay homepage](screenshot.png) -->
 
-**Live site:**https://jobrophoto.github.io/marlow-clay/
+Live site: https://jobrophoto.github.io/marlow-clay/
 
 ## Features
 
